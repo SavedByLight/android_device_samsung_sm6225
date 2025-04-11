@@ -139,6 +139,7 @@ PLATFORM_VERSION := 14
 # Encryption & Misc
 BOARD_USES_METADATA_PARTITION := true
 BOARD_USES_QCOM_FBE_DECRYPTION := true
+TW_INCLUDE_CRYPTO := true
 
 # TWRP Configuration
 TW_THEME := portrait_hdpi
